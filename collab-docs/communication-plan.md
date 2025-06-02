@@ -1,6 +1,7 @@
 # Communication Plan
 
-This document outlines the strategies and tools our team will use to ensure effective and respectful communication throughout the project duration.
+This document outlines the strategies and tools our team will use to ensure
+effective and respectful communication throughout the project duration.
 
 ---
 
@@ -55,4 +56,5 @@ This document outlines the strategies and tools our team will use to ensure effe
 
 ---
 
-This communication plan will be reviewed periodically and adjusted based on team needs and feedback.
+This communication plan will be reviewed periodically and adjusted based on team
+needs and feedback.

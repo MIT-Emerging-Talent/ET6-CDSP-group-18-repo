@@ -1,6 +1,8 @@
 # Project Constraints
 
-This document outlines the key constraints that guide our data analysis project. These constraints help define our scope, manage expectations, and ensure ethical and effective project execution.
+This document outlines the key constraints that guide our data analysis project.
+These constraints help define our scope, manage expectations, and ensure ethical
+and effective project execution.
 
 ---
 
@@ -42,9 +44,10 @@ This document outlines the key constraints that guide our data analysis project.
 ## Team Constraints
 
 * Collaboration is asynchronous and cross-cultural, requiring flexibility in communication.
-* All contributions must be made through assigned branches and reviewed via pull requests.
-* English is the working language for all communication and documentation.
+* All contributions must be made through assigned branches and reviewed via pull
+  requests. English is the working language for all communication and documentation.
 
 ---
 
-These constraints serve as guiding boundaries to help ensure project success, maintain ethical standards, and promote effective teamwork.
+These constraints serve as guiding boundaries to help ensure project success,
+maintain ethical standards, and promote effective teamwork.
