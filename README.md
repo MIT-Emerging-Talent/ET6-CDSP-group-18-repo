@@ -24,7 +24,7 @@ Welcome to our team repository for the Cross-Cultural Data Science Collaboration
 | Muhammet Ali Isik       | Electrical & Electronics Engineer    | Turkey                  |
 | Mohamed Makki           | Data Analyst                         | Iraq                    |
 
-> Note: Roles are flexible and may rotate throughout the project.
+> Note: Roles are subject to change and must be verified by all team members.
 
 ---
 
