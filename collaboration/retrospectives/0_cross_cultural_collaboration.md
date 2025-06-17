@@ -59,6 +59,18 @@ the respectful and encouraging tone throughout. Proud that we could still hold
 space for each other, stay patient, and keep the project environment positive
 despite the slow pace.
 
+### Abdulrahman
+
+> I joined the team late and tried to catch up on what I have missed. It was a
+bit overwhelming at first, but after checking out the repository and seeing some
+familiar things from the foundation track, I was able to get the hang of it.
+Also, the others were helpful - especially Ava and Muhammet - and made it easier
+for me to participate with some recap on what has been done and I was able to
+follow along quickly. What I’d like to do better next time is align more quickly
+with the team’s progress and help suggest simple workflows that can make things
+easier for everyone. I’m excited to contribute more consistently and support the
+team's momentum moving forward.
+
 ---
 
 *We’re still figuring it out, but this milestone helped us grow as a team  in
