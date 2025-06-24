@@ -28,7 +28,7 @@ pip install ruff pylint
 To ensure a smooth experience, please have the following ready:
 
 * **Python 3.10+**: Our primary language
-* JupyterLab, VS Code
+* Jupyter Notebook, VS Code
 * Git (version control)
 
 ---
