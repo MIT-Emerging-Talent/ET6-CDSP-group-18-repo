@@ -1,15 +1,13 @@
 # Project Pathway
 
-*Notes & Planning Document*  
-*Last updated: 2025-06-25 by Ava*
+*Notes & Planning Document*
+*Last updated: "2025-06-25" by Ava*
 
 ## Why This Note
 
-This document outlines a workflow made for our group’s current
-focus.
-
-Our path will evolve, especially after our first meeting with the project partner,
-but this note is meant to align us ahead of time with shared understanding.
+This document outlines a workflow made for our group's current focus.
+Our path will evolve, especially after our first meeting with the project
+partner, but this note is meant to align us ahead of time with shared understanding.
 
 ---
 
@@ -19,7 +17,7 @@ but this note is meant to align us ahead of time with shared understanding.
 
 - **Define Project Goals**  
   - What outcomes are expected by our partner?  
-- - What *decisions* will our outputs inform?  
+  - What *decisions* will our outputs inform?  
   - What impact do we want to deliver within our limited timeline?
 
 - **Understand the Data**  
@@ -39,17 +37,17 @@ but this note is meant to align us ahead of time with shared understanding.
 
 ---
 
-### 2. **Data Preparation Phase**
+### 2. Data Preparation Phase
 
-- **Access & Audit Data**  
-  - Review what’s available via the partnership  
+- **Access & Audit Data**
+  - Review what's available via the partnership
   - Check for coverage, completeness, missingness, structure.
   Are they clean, structured, and labeled or raw, fragmented, and messy?
   - What do we *not* have yet and how critical is it?
 - **Clean & Standardize**  
   - Define shared cleaning protocols, scripts, naming conventions
 - **Explore & Document**  
-  - What’s missing, what stands out, what needs fixing?
+  - What's missing, what stands out, what needs fixing?
 - **Refine & Integrate**  
   - If we are using multiple sources, ensure interoperability
   - Consider transformations
@@ -63,7 +61,7 @@ but this note is meant to align us ahead of time with shared understanding.
 
 - Who are the primary users Ministry of Health? local clinics? donors?
 - How often data is updated, and who collects it?
-- Are there known gaps or biases in what’s currently available?
+- Are there known gaps or biases in what's currently available?
 - Are there any data privacy, security, or political sensitivities
    we should be aware of?
 - Are there specific geographies, health conditions, or time periods
