@@ -9,7 +9,7 @@ ignore:
   - .git
   - .github
   - .vscode
-  - venv
+  - .venv
   - .ruff_cache
   - .pytest_cache
   - __pycache__
